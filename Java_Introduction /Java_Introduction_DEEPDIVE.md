@@ -1,4 +1,4 @@
-# Java Introduction — Deep Dive
+# Java Introduction
 
 Java is more than just a programming language. It is a **language + runtime environment + standard libraries + development tools + ecosystem** designed around the idea of writing software that can run across different platforms.
 

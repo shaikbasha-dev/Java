@@ -1,6 +1,4 @@
-# History of Java — Teach Me
-
-Let's learn Java's history as a **story**, not as a list of dates.
+# History of Java
 
 ## 1. The problem before Java
 

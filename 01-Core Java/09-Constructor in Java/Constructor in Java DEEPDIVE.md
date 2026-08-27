@@ -1,4 +1,4 @@
-# Constructor in Java — DEEP DIVE 🔥
+# Constructor in Java — DEEP DIVE 
 
 Let's build the concept from **zero → object creation → constructor execution → `this` → shadowing → constructor types → overloading → common traps**.
 
@@ -1886,7 +1886,7 @@ this(101);
 
 ---
 
-# 🏆 MASTER MEMORY
+#  MASTER MEMORY
 
 If you remember only this, you can reconstruct most of the topic:
 
